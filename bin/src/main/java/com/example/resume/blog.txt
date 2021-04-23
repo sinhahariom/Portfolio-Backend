@@ -1,0 +1,10 @@
+﻿Spring Boot#
+<br>Of all the development of applications being done, a curative summary speaks of the data and end results of what any web application does. For this summary, reporting is one of the important aspect of telling the user, the final result obtained from the end to end flow of application.<br><br>
+Jasper Report is one of those, xml based reporting tool, which can be utilised for the development of handful reports. They are simple in development and one just needs proper mapping of parameters to embed data into it. The key thing one needs to keep in mind, is the use of these mappings in the Java based applications, with the suitable data types. From the development of Tables to represent the visualisations, Jasper reports are much helpful for reporting purpose.<br>
+Any element present in the report must be properly mapped with a unique parameter name, that can be used in the application as a part of connection of the xml with the back end.<br>
+Using the controllers of Spring boot, we can easily generate the reports in any defined url. The POM ( Project Object Model) of spring boot provides us an easy way to declare the dependency for the Jasper report.<br>
+
+<br>
+<br>
+Thanks.And Regards.And SO happy to work with you.<br>#
+11-09-2020#
